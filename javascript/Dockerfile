@@ -7,4 +7,4 @@ RUN npm install
 
 COPY . .
 
-ENTRYPOINT ["node", "./script.js"]
+ENTRYPOINT ["tsx", "./script.ts"]
