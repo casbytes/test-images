@@ -8,7 +8,9 @@
 **/lib/
 **/include/
 **/bin/
-**/dev_test
+**/dev_test/
+**/py_test.json
+**/pylint_report.json
 
 # misc
 **/.env
