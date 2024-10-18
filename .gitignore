@@ -8,6 +8,7 @@
 **/lib/
 **/include/
 **/bin/
+**/dev_test
 
 # misc
 **/.env
