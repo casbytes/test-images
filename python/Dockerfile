@@ -11,4 +11,4 @@ COPY . .
 
 RUN source ./bin/activate
 
-ENTRYPOINT ["./venv/bin/python", "./script.py"]
+ENTRYPOINT ["./bin/python", "./script.py"]
