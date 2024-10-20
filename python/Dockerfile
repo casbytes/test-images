@@ -9,6 +9,4 @@ RUN python3 -m venv . && \
 
 COPY . .
 
-RUN source ./bin/activate
-
 ENTRYPOINT ["./bin/python", "./script.py"]
