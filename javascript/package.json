@@ -17,6 +17,7 @@
 		"eslint-plugin-html": "^8.1.1",
 		"eslint-plugin-jsdoc": "^50.0.0",
 		"jsdom": "^24.1.1",
+		"tsx": "^4.19.1",
 		"typescript": "^5.5.4",
 		"vitest": "^2.0.4",
 		"vitest-mock-extended": "^2.0.0"

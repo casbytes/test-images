@@ -2,8 +2,15 @@
 **/node_modules
 
 # Python
-**/__pycache__
-**/lib
+**/pyvenv.cfg
+**/__pycache__/
+**/.pytest_cache
+**/lib/
+**/include/
+**/bin/
+**/dev_test/
+**/py_test.json
+**/pylint_report.json
 
 # misc
 **/.env
