@@ -11,6 +11,7 @@
 **/dev_test/
 **/py_test.json
 **/pylint_report.json
+**/pytest_report.json
 
 # misc
 **/.env
